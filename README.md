@@ -6,4 +6,5 @@ Shoots anything that moves, using [`OpenCV`](http://opencv.org/) for motion dete
 
 ## Dependencies
 1. Python bindings for OpenCV 3.0.1 or above
-2. [`PyAutoGui`](https://github.com/asweigart/pyautogui) to control mouse
+2. [`Pillow`](https://github.com/python-pillow/Pillow) to capture screen
+3. [`PyAutoGui`](https://github.com/asweigart/pyautogui) to control mouse
